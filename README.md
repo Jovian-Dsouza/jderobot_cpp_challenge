@@ -2,6 +2,10 @@
 
 ![cppGIF](cppGIF.gif)
 
+## YouTube Video
+
+[![JdeRobot cpp challenge](https://img.youtube.com/vi/PyOdEFDgoeg/0.jpg)](https://youtu.be/PyOdEFDgoeg)
+
 ## Description
 This solution uses Backtracking to compute the longest path in the labyrinth 
 
